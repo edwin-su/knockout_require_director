@@ -1,0 +1,1 @@
+# knockout_require_director
